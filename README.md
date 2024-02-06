@@ -1,5 +1,8 @@
 # Mastermind
-### Text Based Python Game
+A Text Based Python Game  
+Python (3.11.0)  
+
+## Description
 This game simulates the game Mastermind. The program will generate a secret code
 and then allow the user to have multiple guesses. The program will analyze each
 player guess and give hints to help the player deduce the code.
